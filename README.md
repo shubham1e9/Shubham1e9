@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-kumar-iem&label=Profile%20views&color=b8b8b8&style=plastic" alt="shubham-kumar-iem" /> </p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=shubham-kumar-iem&label=Profile%20views&color=b8b8b8&style=plastic" alt="shubham-kumar-iem" /> </p>
+<div align="center"> <img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/repo-header-image.png"> </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
