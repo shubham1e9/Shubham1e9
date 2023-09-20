@@ -2,8 +2,6 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=shubham-kumar-iem&label=Profile%20views&color=b8b8b8&style=plastic" alt="shubham-kumar-iem" /> </p>
 <div align="center"> <img src="https://raw.githubusercontent.com/leviarista/Shubham-kumar-iem/main/linkedinbg.jpeg"> </div>
-![GitHub Readme Banner](images/linkedinbg.jpeg)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
