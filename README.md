@@ -1,4 +1,4 @@
-![logo](https://github.com/Shubham-kumar-iem/Shubham-kumar-iem/main/linkedin.jpeg)
+![poster](https://github.com/Shubham-kumar-iem/Shubham-kumar-iem/blob/main/linkedinbg.jpeg)
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 
 <p align="center">
