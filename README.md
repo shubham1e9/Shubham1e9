@@ -30,9 +30,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-kumar-iem&show_icons=true&locale=en&layout=compact" alt="shubham-kumar-iem" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-kumar-iem&theme=highcontrast" alt="shubham-kumar-iem" /></p>
-[![](https://leetcard.jacoblin.cool/mudit_2904?ext=contest&theme=light)](https://leetcode.com/mudit_2904)
-![LeetCode Stats](https://leetcard.jacoblin.cool/shubhamkumarcse?theme=light&font=Noto%20Sans%20Masaram%20Gondi&ext=contest)
+
+
+![](https://leetcard.jacoblin.cool/shubhamkumarcse?theme=light&font=Noto%20Sans%20Masaram%20Gondi&ext=contest)
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
