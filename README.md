@@ -28,7 +28,7 @@
 <br/> <br/>
 <img align="right" alt="PAC MAN" width="300" height="300" src="https://andrewmayneblog.files.wordpress.com/2023/03/maze_solution_pacman_pellets.gif?w=740&zoom=2">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-kumar-iem&show_icons=true&locale=en&layout=compact" alt="shubham-kumar-iem" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham1e9&show_icons=true&locale=en&layout=compact" alt="shubham-kumar-iem" /></p>
 
 
 
