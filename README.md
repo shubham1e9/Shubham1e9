@@ -8,7 +8,7 @@
   <p align="center">
     <h4 align="center" width="100%">Profile Views</h4>
       <p align="center">
-      <img src="https://profile-counter.glitch.me/{Shubham-kumar-iem}/count.svg" alt="Visitor Count" />
+      <img src="https://profile-counter.glitch.me/{Shubham1e9}/count.svg" alt="Visitor Count" />
   </p>
 </p>
 
@@ -16,10 +16,10 @@
 <h3 align="center">Profiles:</h3>
 <p align="center">
 <a href="https://twitter.com/shubham01kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham01kumar" height="30" width="40" />    -    - </a>
-<a href="https://linkedin.com/in/shubham-kumar-434226215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-kumar-434226215" height="30" width="40" /> -  - </a>
+<a href="https://linkedin.com/in/shubham1e9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-kumar-434226215" height="30" width="40" /> -  - </a>
 <a href="https://instagram.com/shubham.roy._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubham.roy._" height="30" width="40" />    -   - </a>
-<a href="https://www.leetcode.com/shubhamkumarcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhamkumarcse" height="30" width="40" /> - - </a>
-<a href="https://auth.geeksforgeeks.org/user/shubhammuz110203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhammuz110203" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shubham1e9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubham1e9" height="30" width="40" /> - - </a>
+<a href="https://auth.geeksforgeeks.org/user/shubham1e9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubham1e9" height="30" width="40" /></a>
 </p>
 <br/>
 <hr/>
