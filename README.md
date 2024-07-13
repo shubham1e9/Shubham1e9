@@ -28,8 +28,8 @@
 <br/> <br/>
 <img align="right" alt="PAC MAN" width="300" height="300" src="https://andrewmayneblog.files.wordpress.com/2023/03/maze_solution_pacman_pellets.gif?w=740&zoom=2">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham1e9&show_icons=true&locale=en&layout=compact" alt="shubham-kumar-iem" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham1e9&show_icons=true&locale=en&layout=compact" alt="shubham1e9" /></p>
 
 
 
-![](https://leetcard.jacoblin.cool/shubhamkumarcse?theme=light&font=Noto%20Sans%20Masaram%20Gondi&ext=contest)
+![](https://leetcard.jacoblin.cool/shubham1e9?theme=light&font=Noto%20Sans%20Masaram%20Gondi&ext=contest)
