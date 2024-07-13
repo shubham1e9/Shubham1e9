@@ -1,4 +1,4 @@
-![poster](https://github.com/Shubham-kumar-iem/Shubham1e9/blob/main/linkedinbg.jpeg)
+![poster](https://github.com/Shubham1e9/Shubham1e9/blob/main/linkedinbg.jpeg)
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 
 <p align="center">
